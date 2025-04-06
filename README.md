@@ -10,9 +10,8 @@ This is a simple chatbot I built for a project. Imagine a company called "Talent
 *   **Chats with Candidates:** Has a simple chat screen using Streamlit.
 *   **Asks Questions:** Asks for stuff like name, email, phone, experience, location, and what job they want.
 *   **Finds out Skills:** Asks the candidate what technologies they know (like Python, React, AWS, etc.).
-*   **Asks *Fake* Tech Questions:** Based on the skills mentioned, it shows some *example* technical questions. **Important:** It doesn't use a real AI brain (like GPT) for this part in this version; the questions are pre-written examples in the code.
+*   **Asks Tech Questions:** Based on the skills mentioned, it shows some *example* technical questions. **Important:** It doesn't use a real AI brain (like GPT) for this part in this version; the questions are pre-written examples in the code.
 *   **Remembers Stuff (for a bit):** Keeps track of the conversation while you're using it in one session.
-*   **Looks Okay:** Added some colors and styling to make the chat look a bit nicer.
 *   **Says Bye:** Has a polite goodbye message.
 
 ## Tech Used:
